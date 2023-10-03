@@ -1,4 +1,4 @@
-time.sleep(10)
+time.sleep(3)
 os.system("clear")
 print(" \033[036m ▒█▀▀▀█ ▒█▀▀▀█ ▄█░ ▒█▀▄▀█ █▀▀█ ")
 print("  ▒█░░▒█ ░▀▀▀▄▄ ░█░ ▒█▒█▒█ ░░▀▄ ")
